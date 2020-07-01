@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"first_name":"Vicuna","category":"Turquoise"},
+{"id":2,"first_name":"Barbet, levaillant's","category":"Teal"},
+{"id":3,"first_name":"Rose-ringed parakeet","category":"Green"},
+{"id":4,"first_name":"Heron, black-crowned night","category":"Aquamarine"},
+{"id":5,"first_name":"Quoll, spotted-tailed","category":"Mauv"},
+{"id":6,"first_name":"Tree porcupine","category":"Pink"},
+{"id":7,"first_name":"Grenadier, common","category":"Crimson"},
+{"id":8,"first_name":"Barbet, crested","category":"Yellow"},
+{"id":9,"first_name":"Lorikeet, scaly-breasted","category":"Purple"},
+{"id":10,"first_name":"Sifaka, verreaux's","category":"Purple"},
+{"id":11,"first_name":"Seal, harbor","category":"Violet"},
+{"id":12,"first_name":"Vulture, white-headed","category":"Red"},
+{"id":13,"first_name":"Seal, southern elephant","category":"Teal"},
+{"id":14,"first_name":"Sloth, pale-throated three-toed","category":"Indigo"},
+{"id":15,"first_name":"South American meadowlark (unidentified)","category":"Crimson"},
+{"id":16,"first_name":"Colobus, white-mantled","category":"Green"},
+{"id":17,"first_name":"Goldeneye, common","category":"Crimson"},
+{"id":18,"first_name":"Booby, blue-faced","category":"Green"},
+{"id":19,"first_name":"Turkey, australian brush","category":"Puce"},
+{"id":20,"first_name":"Zebra, plains","category":"Fuscia"}
+]
+}
